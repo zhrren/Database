@@ -1,0 +1,17 @@
+.nuget
+.vs
+.DS_Store
+*.user
+*.suo
+*.mdf
+packages
+TestResults
+bin
+obj
+debug
+logs
+Backup
+settings/app.json
+settings/app.release.json
+settings/log4net.release.config
+*.nupkg
